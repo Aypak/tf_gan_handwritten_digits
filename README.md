@@ -27,5 +27,8 @@ library(tfdatasets)
 - Run the main.R file  
 - (Optional) Set the number of epochs to train and number of examples to generate (found in main.R)
 
+#### Sample generated images after training for 50 epochs
+![generated_imgs](sample_generated_imgs.jpg)
+
 ### References
 Keydana (2018, Aug. 26). RStudio AI Blog: Generating images with Keras and TensorFlow eager execution. Retrieved from https://blogs.rstudio.com/tensorflow/posts/2018-08-26-eager-dcgan/
