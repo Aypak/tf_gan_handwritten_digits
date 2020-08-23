@@ -1,7 +1,7 @@
 # Generative Adversarial Network to generate handwritten digits
 > Uses [mnist dataset](http://yann.lecun.com/exdb/mnist/)
 
-###How to use:
+### How to use:
 - Install packages
 ```r
 install.packages(c("tensorflow", "keras", "tfdatasets"))
